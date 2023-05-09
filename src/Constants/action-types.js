@@ -1,0 +1,6 @@
+export const Filter_tasks = "Filter_tasks"
+export const add_task = "add_task"
+export const unfilter_tasks = "unfilter_tasks"
+export const check_task = "check_task"
+export const uncheck_task = "uncheck_task"
+export const edit_task = "edit_task"
